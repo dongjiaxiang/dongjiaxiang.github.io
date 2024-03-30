@@ -152,7 +152,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><strong><a style="color:#7b5aa6">PITR: An Efficient Single-Failure Recovery Scheme for PIT-Coded Cloud Storage Systems</a></strong></div>
-    <div class="author">Peng Li, <strong>Jiaxiang Dong</strong>, Xueda Liu, Gang Wang#, Zhongwei Li, Xiaoguang Liu#</div>
+    <div class="author">Peng Li, <strong><u>Jiaxiang Dong</u></strong>, Xueda Liu, Gang Wang#, Zhongwei Li, Xiaoguang Liu#</div>
     <div class="periodical"><em>Symposium on Reliable Distributed Systems (<a href="https://ieeexplore.ieee.org/xpl/conhome/8067712/proceeding">SRDS 2017</a>)</em></div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8069092" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
