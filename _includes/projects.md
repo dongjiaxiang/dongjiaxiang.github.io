@@ -10,7 +10,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/TimeSiam.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv</abbr>
   </div>
 
@@ -30,7 +30,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/TimeXer.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv</abbr>
   </div>
 
@@ -62,7 +62,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/SimMTM.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">NeurIPS</abbr>
   </div>
 
@@ -86,7 +86,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/Multibox.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICME</abbr>
   </div>
 
@@ -106,7 +106,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/computerscience.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Computer Science</abbr>
   </div>
 
@@ -115,7 +115,7 @@
     <div class="author"><strong><u>Jiaxiang Dong</u></strong>, Jiyu Zhai, Xin Ma, Leixian Shen, Li Zhang#</div>
     <div class="periodical"><em><a href="https://ieeexplore.ieee.org/xpl/conhome/8067712/proceeding">Computer Science 2023</a> (In Chinese)</em></div>
     <div class="links">
-      <a href="https://kns.cnki.net/kcms2/article/abstract?v=1aGKlzgJW-qScWeAQSYJqJBLq6n4LMX-zt6OTjGYTw_eCTKLqSLRwMbxzma8-9T_3XjktxYgilXEAunawWswErGxWWerWU2Q53VZZKS5ZNlEVQC8bi4TW1oUA1eC13ULwY-3duM8r4JiyeK5AmFeyg==&uniplatform=NZKPT&language=CHS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://kns.cnki.net/kcms2/article/abstract?v=1aGKlzgJW-o_SFcW-pfSLOjJeCq6jVkxxsh-KyYMI0el5w6FpOzxokvrOEaYKucHDqIIKEnmkbX9R-B-ugS0s3teDBWb1Bhi_qhQFcHoAv3fp6ZEWLKB3v6kLFRju4tCI68l-revbvfnHYi2Ov_3Vn37G1ldgg3K&uniplatform=NZKPT&language=CHS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
@@ -126,7 +126,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/DSE.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">DSE</abbr>
   </div>
 
@@ -146,7 +146,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/PITR.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">SRDS</abbr>
   </div>
 
