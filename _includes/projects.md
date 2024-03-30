@@ -14,7 +14,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling</a></div>
+    <div class="title"><strong><a style="color:#7b5aa6">SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling</a></strong></div>
     <div class="author"><strong>Jiaxiang Dong*</strong>, Haixu Wu*, Haoran Zhang, Li Zhang, Jianmin Wang, Mingsheng Long#</div>
     <div class="periodical"><em>Neural Information Processing Systems (<a href="https://nips.cc/Conferences/2023">NeurIPS</a>), 2023 <strong>(Spotlight Paper)</strong></em></div>
     <div class="links">
@@ -37,7 +37,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Multibox Sample Selection for Active Object Detection</a></div>
+    <div class="title"><strong><a style="color:#7b5aa6">Multibox Sample Selection for Active Object Detection</a></strong></div>
     <div class="author"><strong>Jiaxiang Dong</strong>, Li Zhang#</div>
     <div class="periodical"><em>International Conference on Multimedia and Expo (<a href="https://www.2023.ieeeicme.org/">ICME</a>), 2023 <strong>(Oral Paper)</strong></em></div>
     <div class="links">
@@ -56,7 +56,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">PITR: An Efficient Single-Failure Recovery Scheme for PIT-Coded Cloud Storage Systems</a></div>
+    <div class="title"><strong><a style="color:#7b5aa6">PITR: An Efficient Single-Failure Recovery Scheme for PIT-Coded Cloud Storage Systems</a></strong></div>
     <div class="author">Peng Li, <strong>Jiaxiang Dong</strong>, Xueda Liu, Gang Wang#, Zhongwei Li, Xiaoguang Liu#</div>
     <div class="periodical"><em>Symposium on Reliable Distributed Systems (SRDS), 2017</em></div>
     <div class="links">
@@ -75,7 +75,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Visual Data Analysis with Task-Based Recommendations</a></div>
+    <div class="title"><strong><a style="color:#7b5aa6">Visual Data Analysis with Task-Based Recommendations</a></strong></div>
     <div class="author">Leixian Shen#, Enya Shen, Zhiwei Tai, Yihao Xu, <strong>Jiaxiang Dong</strong>, Jianmin Wang</div>
     <div class="periodical"><em>Data Science and Engineering (<a href="https://link.springer.com/journal/41019">DSE</a>), 2022</em></div>
     <div class="links">
@@ -96,7 +96,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Mechanical Equipment Fault Diagnosis Driven by Knowledge</a></div>
+    <div class="title"><strong><a style="color:#7b5aa6">Mechanical Equipment Fault Diagnosis Driven by Knowledge</a></strong></div>
     <div class="author"><strong>Jiaxiang Dong</strong>, Jiyu Zhai, Xin Ma, Leixian Shen, Li Zhang#</div>
     <div class="periodical"><em>Computer Science, 2023 (In Chinese)</em></div>
     <div class="links">
