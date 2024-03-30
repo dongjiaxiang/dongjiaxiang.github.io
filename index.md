@@ -9,7 +9,7 @@ I'm a Ph.D. candidate (from fall, 2020) in <a href="https://www.thss.tsinghua.ed
 
 My research interest is deep time series analysis and time series pre-training through through scientific and interpretable deep models. Besides, I also devote myself to promoting research to valuable real-world applications. 
 
-If you are interested in my research, please feel free to contact me via <u>djx20@mails.tsinghua.edu.cn</u>
+<!-- If you are interested in my research, please feel free to contact me via <u>djx20@mails.tsinghua.edu.cn</u> -->
 
 
 ## Research Interests
