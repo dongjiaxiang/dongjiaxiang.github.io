@@ -20,6 +20,7 @@ My research interest is deep time series analysis and pre-training of time serie
 
 {% include_relative _includes/projects.md %}
 
+\* Equal Contribution, # Corresponding Author
 
 ## Selected Awards
 
