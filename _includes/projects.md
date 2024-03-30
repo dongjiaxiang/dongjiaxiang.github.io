@@ -1,5 +1,60 @@
 
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications and Projects</h2>
+
+<h2 id="publications" style="margin: 2px 0px -15px;">Preprints</h2>
+
+<div class="publications">
+<ol class="bibliography">
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><strong><a style="color:#7b5aa6">TimeSiam: A Pre-Training Framework for Siamese Time-Series Modeling</a></strong></div>
+    <div class="author"><strong>Jiaxiang Dong*</strong>, Haixu Wu*, Yuxuan Wang, Yunzhong Qiu, Li Zhang, Jianmin Wang, Mingsheng Long#</div>
+    <div class="periodical"><em>arXiv, 2024</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2402.02475.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><strong><a style="color:#7b5aa6">TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables</a></strong></div>
+    <div class="author">Yuxuan Wang*, Haixu Wu*, <strong>Jiaxiang Dong</strong>, Yong Liu, Yunzhong Qiu, Haoran Zhang, Jianmin Wang, Mingsheng Long#</div>
+    <div class="periodical"><em>arXiv, 2024</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2402.19072.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+
+  
+<br>
+
+</ol>
+</div>
+
+
+<h2 id="publications" style="margin: 2px 0px -15px;">Conference Proceedings</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -46,25 +101,38 @@
   </div>
 </div>
 </li>
+  
+<br>
+
+</ol>
+</div>
+
+
+
+<h2 id="publications" style="margin: 2px 0px -15px;">Journal Articles</h2>
+
+<div class="publications">
+<ol class="bibliography">
 
 <li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">SRDS</abbr>
+    <abbr class="badge">Computer Science</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><strong><a style="color:#7b5aa6">PITR: An Efficient Single-Failure Recovery Scheme for PIT-Coded Cloud Storage Systems</a></strong></div>
-    <div class="author">Peng Li, <strong>Jiaxiang Dong</strong>, Xueda Liu, Gang Wang#, Zhongwei Li, Xiaoguang Liu#</div>
-    <div class="periodical"><em>Symposium on Reliable Distributed Systems (SRDS), 2017</em></div>
+    <div class="title"><strong><a style="color:#7b5aa6">Mechanical Equipment Fault Diagnosis Driven by Knowledge</a></strong></div>
+    <div class="author"><strong>Jiaxiang Dong</strong>, Jiyu Zhai, Xin Ma, Leixian Shen, Li Zhang#</div>
+    <div class="periodical"><em>Computer Science, 2023 (In Chinese)</em></div>
     <div class="links">
-      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8069092" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://kns.cnki.net/kcms2/article/abstract?v=1aGKlzgJW-qScWeAQSYJqJBLq6n4LMX-zt6OTjGYTw_eCTKLqSLRwMbxzma8-9T_3XjktxYgilXEAunawWswErGxWWerWU2Q53VZZKS5ZNlEVQC8bi4TW1oUA1eC13ULwY-3duM8r4JiyeK5AmFeyg==&uniplatform=NZKPT&language=CHS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
 </li>
+
 
 <li>
 <div class="pub-row">
@@ -85,49 +153,6 @@
   </div>
 </div>
 </li>
-
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Computer Science</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><strong><a style="color:#7b5aa6">Mechanical Equipment Fault Diagnosis Driven by Knowledge</a></strong></div>
-    <div class="author"><strong>Jiaxiang Dong</strong>, Jiyu Zhai, Xin Ma, Leixian Shen, Li Zhang#</div>
-    <div class="periodical"><em>Computer Science, 2023 (In Chinese)</em></div>
-    <div class="links">
-      <a href="https://kns.cnki.net/kcms2/article/abstract?v=1aGKlzgJW-qScWeAQSYJqJBLq6n4LMX-zt6OTjGYTw_eCTKLqSLRwMbxzma8-9T_3XjktxYgilXEAunawWswErGxWWerWU2Q53VZZKS5ZNlEVQC8bi4TW1oUA1eC13ULwY-3duM8r4JiyeK5AmFeyg==&uniplatform=NZKPT&language=CHS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
-</div>
-</li>
-  
-
-<!-- <li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/OCS.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">AHI</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Open Case Studies</a></div>
-    <div class="author">Stephanie Hicks, Leah Jager, Margaret Taub, Carrie Wright, John Muschelli, Lyla Atta, Michael Breshock, Qier Meng, Alexandra Stephens, <strong>Hanchao Zhang</strong>, and etc. </div>
-    <div class="periodical"><em>the Johns Hopkins University, and Bloomberg American Health Initiative.</em></div>
-    <div class="links">
-      <a href="https://americanhealth.jhu.edu/open-case-studies" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://github.com/orgs/opencasestudies/teams/jhu-research-assistants" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Contact</a>
-    </div>
-  </div>
-</div>
-</li> -->
   
 <br>
 
