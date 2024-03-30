@@ -14,14 +14,11 @@ My research interest is deep time series analysis and time series pre-training t
 
 ## Education and Experience
 
-- **2020.09 - present, Tsinghua University**
-Ph.D in Software Engineering, School of Software
-- **2018.07 - 2020.06, Baidu Online Network Technology (Beijing) Co.,Ltd.**
-Search Reliability Engineer, Sharing Technology Platform Department
-- **2016.09 - 2018.06, NanKai University.**
-M.S Computer science and technology, College of Computer and Control Engineering
-- **2012.09 - 2016.06, Tianjin Polytechnic University.**
-B.S Software Engineering, School of Computer Science & Software Engineering
+- **[ 2020 - present ]** Ph.D in Software Engineering, <a href="https://www.thss.tsinghua.edu.cn" target="_blank"> School of Software</a>, <a href="https://www.tsinghua.edu.cn/en" target="_blank"> Tsinghua University</a>
+- **[2018-2020]** Search Reliability Engineer, <a href="https://en.wikipedia.org/wiki/Baidu" target="_blank">Baidu Online Network Technology (Beijing) Co.,Ltd</a>
+- **[2016-2018]** M.S Computer science and technology, <a href="https://cc.nankai.edu.cn" target="_blank">College of Computer</a>, <a href="https://www.nankai.edu.cn" target="_blank">NanKai University</a>
+- **[2012-2016]** B.S Software Engineering, <a href="https://ss.tiangong.edu.cn" target="_blank">School of Software<a>, <a href="https://www.tiangong.edu.cn/main.htm" target="_blank">Tianjin Polytechnic University</a>
+
 
 ## Awards
 - **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
