@@ -14,11 +14,16 @@ My research interest is deep time series analysis and time series pre-training t
 
 ## Education
 - **2020.09 - now, Tsinghua University (THU).**
-Ph.D in Software Engineering, School of Software
+  
+    Ph.D in Software Engineering, School of Software
+
 - **2016.09 - 2018.06, NanKai University (NKU).**
-M.S Computer science and technology, College of Computer and Control Engineering
-- **2012.09 - 2016.06, Tianjin Polytechnic University (NKU).**
-B.S Software Engineering, School of Computer Science & Software Engineering
+  
+    M.S Computer science and technology, College of Computer and Control Engineering
+
+- **2012.09 - 2016.06, Tianjin Polytechnic University (TJPU).**
+  
+    B.S Software Engineering, School of Computer Science & Software Engineering
 
 ## Awards
 - **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
