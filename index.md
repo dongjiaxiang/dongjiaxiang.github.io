@@ -14,7 +14,7 @@ My research interest is deep time series analysis and time series pre-training t
 
 ## Education and Experience
 
-- **[2020 - present]** Ph.D in Software Engineering, <a href="https://www.thss.tsinghua.edu.cn" target="_blank"> School of Software</a>, <a href="https://www.tsinghua.edu.cn/en" target="_blank"> Tsinghua University</a>
+- **[2020-present]** Ph.D in Software Engineering, <a href="https://www.thss.tsinghua.edu.cn" target="_blank"> School of Software</a>, <a href="https://www.tsinghua.edu.cn/en" target="_blank"> Tsinghua University</a>
 - **[2018-2020]** Search Reliability Engineer, <a href="https://en.wikipedia.org/wiki/Baidu" target="_blank">Baidu Online Network Technology (Beijing) Co.,Ltd</a>
 - **[2016-2018]** M.S Computer science and technology, <a href="https://cc.nankai.edu.cn" target="_blank">College of Computer</a>, <a href="https://www.nankai.edu.cn" target="_blank">NanKai University</a>
 - **[2012-2016]** B.S Software Engineering, <a href="https://ss.tiangong.edu.cn" target="_blank">School of Software<a>, <a href="https://www.tiangong.edu.cn/main.htm" target="_blank">Tianjin Polytechnic University</a>
@@ -45,8 +45,8 @@ My research interest is deep time series analysis and time series pre-training t
 - **[Aug. 2021]** <a href="https://www.jmcp.org/doi/full/10.18553/jmcp.2021.27.10.1482" target="_blank">*Validation of EHR medication fill data obtained through electronic linkage with pharmacies*</a> has been accepted by the **Journal of Managed Care & Specialty Pharmacy**.
 - **[Jan. 2021]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jocd.13486" target="_blank">*Quantitative evaluation of rejuvenation treatment of nasolabial fold wrinkles by regression model and 3D photography*</a> has been accepted by the **Journal of Cosmetic Dermatology**. --> 
 
-
-{% include_relative _includes/services.md %}
+<!-- 
+{% include_relative _includes/services.md %} -->
 
 ## Services
 
