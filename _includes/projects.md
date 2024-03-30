@@ -97,6 +97,7 @@
     <strong>(Oral Paper)</strong></em></div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10219990" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://cloud.tsinghua.edu.cn/f/c2e3fbbe9542410eb613/?dl=1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
     </div>
   </div>
 </div>
