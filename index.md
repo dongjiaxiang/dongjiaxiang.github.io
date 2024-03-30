@@ -7,9 +7,7 @@ layout: homepage
 
 I'm a Ph.D. candidate (from fall, 2020) in <a href="https://www.thss.tsinghua.edu.cn/" target="_blank"> School of Software</a> at <a href="https://www.tsinghua.edu.cn/en/" target="_blank"> Tsinghua University</a>, working under the supervision of Prof.<a href="https://www.thss.tsinghua.edu.cn/faculty/zhangli.htm" target="_blank"> Li Zhang</a> and Prof.<a href="https://www.thss.tsinghua.edu.cn/faculty/longmingsheng.htm" target="_blank"> Mingsheng Long</a>. 
 
-My research interest is deep time series analysis and time series pre-training through scientific and interpretable deep models. Besides, I also devote myself to promoting research to valuable real-world applications. 
-
-<!-- If you are interested in my research, please feel free to contact me via <u>djx20@mails.tsinghua.edu.cn</u> -->
+My research interest is deep time series analysis and pre-training of time series through scientifically interpretable deep models. In addition, I am committed to advancing research that can be applied to meaningful real-world scenarios.
 
 
 ## Education and Experience
@@ -26,12 +24,10 @@ My research interest is deep time series analysis and time series pre-training t
 ## Selected Awards
 
 Honors and Scholarships
-
 - Jiukun Scholarship. 2023
 - Excellent Thesis Award for Master of Engineering Major in Tianjin. 2019
 
 Professional Certification
-
 - Oracle Database 10g Administrator Certified Master (OCM). 2015
 - Oracle Database 10g Administrator Certified Professional (OCP). 2014
 - Oracle Database SQL Certified Expert. 2014
