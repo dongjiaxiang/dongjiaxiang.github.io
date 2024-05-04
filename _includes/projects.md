@@ -1,6 +1,6 @@
 
 
-<h2 id="publications" style="margin: 2px 0px -15px;">Preprints</h2>
+<h2 id="publications" style="margin: 2px 0px -5px;">Preprints</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -9,8 +9,7 @@
 <li>
 <div class="pub-row">
 
-  <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;"> -->
-  <div>
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/TimeXer.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv</abbr>
   </div>
@@ -70,7 +69,7 @@
     <div class="title"><strong><a style="color:#7b5aa6">SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling</a></strong></div>
     <div class="author"><strong><u>Jiaxiang Dong*</u></strong>, Haixu Wu*, Haoran Zhang, Li Zhang, Jianmin Wang, Mingsheng Long#</div>
     <div class="periodical"><em>Neural Information Processing Systems (<a href="https://nips.cc/Conferences/2023">NeurIPS 2023</a>) <br>
-    <strong>(Spotlight Accept rate~ 3.06%)</strong></em></div>
+    <strong>(Spotlight, Accept rate~ 3.06%)</strong></em></div>
     <div class="links">
       <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/5f9bfdfe3685e4ccdbc0e7fb29cccf2a-Paper-Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/thuml/SimMTM" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
