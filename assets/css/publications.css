@@ -54,6 +54,7 @@ screen and (min-width: 480px) {
 
 .publications {
   margin-top: 2rem;
+  padding-right: 1rem;
 }
 
 .publications h1 {
