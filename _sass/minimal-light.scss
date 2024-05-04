@@ -652,7 +652,7 @@ screen and (max-width: 1560px) {
 }
 
 @media print,
-screen and (max-width: 960px) {
+screen and (max-width: 1560px) {
   body {
     word-wrap: break-word;
     padding: 15px;
@@ -677,7 +677,7 @@ screen and (max-width: 960px) {
 }
 
 @media print,
-screen and (max-width: 480px) {
+screen and (max-width: 1560px) {
 
   .pub-row {
     display: block;
