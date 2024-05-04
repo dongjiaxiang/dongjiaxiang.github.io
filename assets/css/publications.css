@@ -48,7 +48,7 @@ blockquote {
 @media print,
 screen and (min-width: 480px) {
   .col-sm-9 {
-    width: 150%;
+    width: 100%;
   }
 }
 
@@ -210,6 +210,6 @@ screen and (min-width: 480px) {
   width: 270px;
   margin-top: 5px;
   margin-left: 5px;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
   object-fit: cover;
 }
