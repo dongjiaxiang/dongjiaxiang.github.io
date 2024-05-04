@@ -16,7 +16,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><strong>TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables</strong></div>
-    <div class="author">Yuxuan Wang*, Haixu Wu*, <strong><u>Jiaxiang Dong</u></strong>, Yong Liu, Yunzhong Qiu, Haoran Zhang, Jianmin Wang, Mingsheng Long#</div>
+    <div class="author">Yuxuan Wang*, Haixu Wu*, <strong>Jiaxiang Dong</strong>, Yong Liu, Yunzhong Qiu, Haoran Zhang, Jianmin Wang, Mingsheng Long#</div>
     <div class="periodical"><em><a href="https://arxiv.org/abs/2402.19072">arXiv 2024</a></em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2402.19072.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -47,7 +47,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><strong>TimeSiam: A Pre-Training Framework for Siamese Time-Series Modeling</strong></div>
-    <div class="author"><strong><u>Jiaxiang Dong*</u></strong>, Haixu Wu*, Yuxuan Wang, Yunzhong Qiu, Li Zhang, Jianmin Wang, Mingsheng Long#</div>
+    <div class="author"><strong>Jiaxiang Dong*</strong>, Haixu Wu*, Yuxuan Wang, Yunzhong Qiu, Li Zhang, Jianmin Wang, Mingsheng Long#</div>
     <div class="periodical"><em>International Conference on Machine Learning (<a href="https://icml.cc/Conferences/2024">ICML 2024</a>)</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2402.02475.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -69,7 +69,7 @@
     <div class="title"><strong>SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling</strong></div>
     <div class="author"><strong><u>Jiaxiang Dong*</u></strong>, Haixu Wu*, Haoran Zhang, Li Zhang, Jianmin Wang, Mingsheng Long#</div>
     <div class="periodical"><em>Neural Information Processing Systems (<a href="https://nips.cc/Conferences/2023">NeurIPS 2023</a>) <br>
-    <strong>(Spotlight, Accept rate~ 3.06%)</strong></em></div>
+    <strong><a style="color:red">(Spotlight, Accept rate~ 3.06%)</a></strong></em></div>
     <div class="links">
       <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/5f9bfdfe3685e4ccdbc0e7fb29cccf2a-Paper-Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/thuml/SimMTM" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -151,7 +151,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><strong><a style="color:#7b5aa6">PITR: An Efficient Single-Failure Recovery Scheme for PIT-Coded Cloud Storage Systems</a></strong></div>
+    <div class="title"><strong>PITR: An Efficient Single-Failure Recovery Scheme for PIT-Coded Cloud Storage Systems</strong></div>
     <div class="author">Peng Li, <strong><u>Jiaxiang Dong</u></strong>, Xueda Liu, Gang Wang#, Zhongwei Li, Xiaoguang Liu#</div>
     <div class="periodical"><em>Symposium on Reliable Distributed Systems (<a href="https://ieeexplore.ieee.org/xpl/conhome/8067712/proceeding">SRDS 2017</a>)</em></div>
     <div class="links">
