@@ -14,8 +14,8 @@
     <abbr class="badge">arXiv</abbr>
   </div>
 
-  <div class="col-sm-15" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><strong><a style="color:#7b5aa6">TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables</a></strong></div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><strong>TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables</strong></div>
     <div class="author">Yuxuan Wang*, Haixu Wu*, <strong><u>Jiaxiang Dong</u></strong>, Yong Liu, Yunzhong Qiu, Haoran Zhang, Jianmin Wang, Mingsheng Long#</div>
     <div class="periodical"><em><a href="https://arxiv.org/abs/2402.19072">arXiv 2024</a></em></div>
     <div class="links">
@@ -46,7 +46,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><strong><a style="color:#7b5aa6">TimeSiam: A Pre-Training Framework for Siamese Time-Series Modeling</a></strong></div>
+    <div class="title"><strong>TimeSiam: A Pre-Training Framework for Siamese Time-Series Modeling</strong></div>
     <div class="author"><strong><u>Jiaxiang Dong*</u></strong>, Haixu Wu*, Yuxuan Wang, Yunzhong Qiu, Li Zhang, Jianmin Wang, Mingsheng Long#</div>
     <div class="periodical"><em>International Conference on Machine Learning (<a href="https://icml.cc/Conferences/2024">ICML 2024</a>)</em></div>
     <div class="links">
@@ -66,7 +66,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><strong><a style="color:#7b5aa6">SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling</a></strong></div>
+    <div class="title"><strong>SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling</strong></div>
     <div class="author"><strong><u>Jiaxiang Dong*</u></strong>, Haixu Wu*, Haoran Zhang, Li Zhang, Jianmin Wang, Mingsheng Long#</div>
     <div class="periodical"><em>Neural Information Processing Systems (<a href="https://nips.cc/Conferences/2023">NeurIPS 2023</a>) <br>
     <strong>(Spotlight, Accept rate~ 3.06%)</strong></em></div>
@@ -90,7 +90,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><strong><a style="color:#7b5aa6">Multibox Sample Selection for Active Object Detection</a></strong></div>
+    <div class="title"><strong>Multibox Sample Selection for Active Object Detection</strong></div>
     <div class="author"><strong><u>Jiaxiang Dong</u></strong>, Li Zhang#</div>
     <div class="periodical"><em>International Conference on Multimedia and Expo (<a href="https://www.2023.ieeeicme.org/">ICME 2023</a>) <br>
     <strong>(Oral)</strong></em></div>
@@ -111,7 +111,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><strong><a style="color:#7b5aa6">Mechanical Equipment Fault Diagnosis Driven by Knowledge</a></strong></div>
+    <div class="title"><strong>Mechanical Equipment Fault Diagnosis Driven by Knowledge</strong></div>
     <div class="author"><strong><u>Jiaxiang Dong</u></strong>, Jiyu Zhai, Xin Ma, Leixian Shen, Li Zhang#</div>
     <div class="periodical"><em><a href="https://ieeexplore.ieee.org/xpl/conhome/8067712/proceeding">Computer Science 2023</a> (In Chinese)</em></div>
     <div class="links">
@@ -131,7 +131,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><strong><a style="color:#7b5aa6">Visual Data Analysis with Task-Based Recommendations</a></strong></div>
+    <div class="title"><strong>Visual Data Analysis with Task-Based Recommendations</strong></div>
     <div class="author">Leixian Shen#, Enya Shen, Zhiwei Tai, Yihao Xu, <strong><u>Jiaxiang Dong</u></strong>, Jianmin Wang</div>
     <div class="periodical"><em>Data Science and Engineering (<a href="https://link.springer.com/journal/41019">DSE 2022</a>)</em></div>
     <div class="links">
