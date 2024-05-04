@@ -438,7 +438,7 @@ pre {
 }
 
 pre {
-  max-width: 500px;
+  max-width: 1000px;
   padding: 8px 15px;
   background: #f8f8f8;
   border-radius: 5px;
@@ -677,7 +677,7 @@ screen and (max-width: 960px) {
 }
 
 @media print,
-screen and (max-width: 480px) {
+screen and (max-width: 1000px) {
 
   .pub-row {
     display: block;
