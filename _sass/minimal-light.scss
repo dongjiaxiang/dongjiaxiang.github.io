@@ -420,7 +420,7 @@ a:hover small {
 }
 
 .wrapper {
-  width: 960px;
+  width: 1860px;
   margin: 0 auto;
 }
 
@@ -585,7 +585,7 @@ footer {
 }
 
 @media print,
-screen and (max-width: 1060px) {
+screen and (max-width: 960px) {
 
   .pub-row {
     display: flex;
@@ -677,7 +677,7 @@ screen and (max-width: 960px) {
 }
 
 @media print,
-screen and (max-width: 1080px) {
+screen and (max-width: 480px) {
 
   .pub-row {
     display: block;
