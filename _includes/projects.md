@@ -119,8 +119,8 @@
     <!-- <div class="periodical"><em><a href="https://ieeexplore.ieee.org/xpl/conhome/8067712/proceeding">Computer Science 2023</a>. (In Chinese)</em></div> -->
     <div><em><strong>(In Chinese)</strong></em></div>
     <div class="links">
-      <a href="https://ieeexplore.ieee.org/xpl/conhome/8067712/proceeding" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Computer Science 2023</a>
-      <a href="https://kns.cnki.net/kcms2/article/abstract?v=1aGKlzgJW-o_SFcW-pfSLOjJeCq6jVkxxsh-KyYMI0el5w6FpOzxokvrOEaYKucHDqIIKEnmkbX9R-B-ugS0s3teDBWb1Bhi_qhQFcHoAv3fp6ZEWLKB3v6kLFRju4tCI68l-revbvfnHYi2Ov_3Vn37G1ldgg3K&uniplatform=NZKPT&language=CHS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://www.jsjkx.com/CN/1002-137X/home.shtml" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Computer Science 2023</a>
+      <a href="https://kns.cnki.net/kcms2/article/abstract?v=dKAmn0h-MOtS9jaAHf_qjMk6rwQ-1S6ERI6_BdJFtdA49-ZhAM40rQAPmfecxKbVwgMRcgjpsM80oqMz1NIupi7GwWYRN4QWevAn0XZJanmjiohG2WBfqM5vrRc0KblEIuf3fuo1icMFZj6Jn4Nbrg==&uniplatform=NZKPT&language=CHS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
