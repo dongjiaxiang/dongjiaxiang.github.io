@@ -26,7 +26,7 @@ My research interest is deep time series analysis and pre-training of time serie
 
 Honors and Scholarships
 - Jiukun Scholarship, 2023.
-- Excellent Thesis Award for Master of Engineering Major in Tianjin, 2019.
+- Excellent Thesis Award for Master of Engineering Major in Tianjin (Top 5%), 2019.
 
 Professional Certification
 - Oracle Database 10g Administrator Certified Master (OCM), 2015.
