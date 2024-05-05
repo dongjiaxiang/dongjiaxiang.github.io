@@ -105,27 +105,6 @@
 </div>
 </li>
 
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/computerscience.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Computer Science</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><strong>Mechanical Equipment Fault Diagnosis Driven by Knowledge</strong></div>
-    <div class="author"><strong><u>Jiaxiang Dong</u></strong>, Jiyu Zhai, Xin Ma, Leixian Shen, Li Zhang#</div>
-    <!-- <div class="periodical"><em><a href="https://ieeexplore.ieee.org/xpl/conhome/8067712/proceeding">Computer Science 2023</a>. (In Chinese)</em></div> -->
-    <div><em><strong>(In Chinese)</strong></em></div>
-    <div class="links">
-      <a href="https://www.jsjkx.com/CN/1002-137X/home.shtml" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Computer Science 2023</a>
-      <a href="https://kns.cnki.net/kcms2/article/abstract?v=dKAmn0h-MOtS9jaAHf_qjMk6rwQ-1S6ERI6_BdJFtdA49-ZhAM40rQAPmfecxKbVwgMRcgjpsM80oqMz1NIupi7GwWYRN4QWevAn0XZJanmjiohG2WBfqM5vrRc0KblEIuf3fuo1icMFZj6Jn4Nbrg==&uniplatform=NZKPT&language=CHS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
-</div>
-</li>
-
 
 <li>
 <div class="pub-row">
