@@ -24,13 +24,13 @@ My research interest is deep time series analysis and pre-training of time serie
 ## Selected Awards
 
 Honors and Scholarships
-- Jiukun Scholarship. 2023
-- Excellent Thesis Award for Master of Engineering Major in Tianjin. 2019
+- Jiukun Scholarship, 2023.
+- Excellent Thesis Award for Master of Engineering Major in Tianjin, 2019.
 
 Professional Certification
-- Oracle Database 10g Administrator Certified Master (OCM). 2015
-- Oracle Database 10g Administrator Certified Professional (OCP). 2014
-- Oracle Database SQL Certified Expert. 2014
+- Oracle Database 10g Administrator Certified Master (OCM), 2015.
+- Oracle Database 10g Administrator Certified Professional (OCP), 2014.
+- Oracle Database SQL Certified Expert, 2014.
 
 
 ## Services
