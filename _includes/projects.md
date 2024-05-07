@@ -110,27 +110,6 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/DSE.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">DSE</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><strong>Visual Data Analysis with Task-Based Recommendations</strong></div>
-    <div class="author">Leixian Shen#, Enya Shen, Zhiwei Tai, Yihao Xu, <strong><u>Jiaxiang Dong</u></strong>, Jianmin Wang</div>
-    <!-- <div class="periodical"><em>Data Science and Engineering, <a href="https://link.springer.com/journal/41019">DSE 2022</a>.</em></div> -->
-    <div class="links">
-      <a href="https://link.springer.com/journal/41019" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DSE 2022</a>
-      <a href="https://link.springer.com/epdf/10.1007/s41019-022-00195-3?sharing_token=p_hj6bYHTQV5IKBU4kER6fe4RwlQNchNByi7wbcMAY6k3p7zOaeOW7fnvRBct8aGNQbjS4CLa-IpcjrbwoSA608ADxx_2-ENa3oZc_rLc8k8k_sTqHanEn9yYtG33dbjHhzI7_EZw_mgt7M0N0meIaFTkUhaZ2CD2wHpvpdtPPg=" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/ShenLeixian/TaskVis" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-</li>
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/PITR.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">SRDS</abbr>
   </div>
@@ -172,6 +151,27 @@
     <div class="links">
       <a href="https://www.jsjkx.com/CN/1002-137X/home.shtml" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Computer Science 2023</a>
       <a href="https://kns.cnki.net/kcms2/article/abstract?v=dKAmn0h-MOtS9jaAHf_qjMk6rwQ-1S6ERI6_BdJFtdA49-ZhAM40rQAPmfecxKbVwgMRcgjpsM80oqMz1NIupi7GwWYRN4QWevAn0XZJanmjiohG2WBfqM5vrRc0KblEIuf3fuo1icMFZj6Jn4Nbrg==&uniplatform=NZKPT&language=CHS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/DSE.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">DSE</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><strong>Visual Data Analysis with Task-Based Recommendations</strong></div>
+    <div class="author">Leixian Shen#, Enya Shen, Zhiwei Tai, Yihao Xu, <strong><u>Jiaxiang Dong</u></strong>, Jianmin Wang</div>
+    <!-- <div class="periodical"><em>Data Science and Engineering, <a href="https://link.springer.com/journal/41019">DSE 2022</a>.</em></div> -->
+    <div class="links">
+      <a href="https://link.springer.com/journal/41019" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DSE 2022</a>
+      <a href="https://link.springer.com/epdf/10.1007/s41019-022-00195-3?sharing_token=p_hj6bYHTQV5IKBU4kER6fe4RwlQNchNByi7wbcMAY6k3p7zOaeOW7fnvRBct8aGNQbjS4CLa-IpcjrbwoSA608ADxx_2-ENa3oZc_rLc8k8k_sTqHanEn9yYtG33dbjHhzI7_EZw_mgt7M0N0meIaFTkUhaZ2CD2wHpvpdtPPg=" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/ShenLeixian/TaskVis" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
