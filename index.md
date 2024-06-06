@@ -36,7 +36,7 @@ Professional Certification
 
 ## Services
 
-- Journal & Conference Reviewer: ICLR, CVPR...
+- Journal & Conference Reviewer: NeurIPS, ICLR, CVPR...
 
 
 ## Visitor Map
