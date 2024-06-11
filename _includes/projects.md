@@ -71,6 +71,8 @@
     <div class="links">
       <a href="https://icml.cc/Conferences/2024" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">ICML 2024</a>
       <a href="https://arxiv.org/abs/2402.02475" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/thuml/TimeSiam" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="/PDF/TimeSiam.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
     </div>
   </div>
 </div>
