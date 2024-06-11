@@ -1,4 +1,4 @@
-# Minimal Light 主题
+<!-- # Minimal Light 主题
 
 [![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/minimal-light/blob/main/LICENSE)
 
@@ -126,4 +126,4 @@ google_analytics: UA-111540567-4
 
 * [orderedlist/minimal](https://github.com/orderedlist/minimal)
 
-* [al-folio](https://github.com/alshedivat/al-folio)
+* [al-folio](https://github.com/alshedivat/al-folio) -->
