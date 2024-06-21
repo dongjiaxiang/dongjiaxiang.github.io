@@ -7,7 +7,7 @@
 
 <style>
   .title {
-    background-color: #000; /* 设置标题背景色 */
+    background-color: #000 no-repeat left bottom; /* 设置标题背景色 */
     background-size: 0px 2px;
     transition: background-size 1300ms; 
   }
