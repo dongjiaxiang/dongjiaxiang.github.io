@@ -6,11 +6,11 @@
 <ol class="bibliography">
 
 <style>
-  .title span {
+  .title {
     background-color: #000; /* 设置标题背景色 */
     transition: background-size 1300ms; 
   }
-  .title span:hover{
+  .title:hover{
     background-size: 100%;
   }
 </style>
