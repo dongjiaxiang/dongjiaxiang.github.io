@@ -9,10 +9,11 @@
   .title {
     background-color: #000 no-repeat left bottom; /* 设置标题背景色 */
     background-size: 0px 2px;
-    transition: background-size 1300ms; 
+    transition: background-size 1300ms;
   }
-  .title:hover{
-    background-size: 100% 2px;
+  .title:hover {
+    background-color: #000 no-repeat left bottom; /* Set the background color on hover */
+    background-size: 100% 2px; /* Adjust background size to fill the element width */
   }
 </style>
 
