@@ -8,14 +8,13 @@
 <style>
   .title {
     background-color: #000; /* 设置标题背景色 */
+    background-size: 0px 2px;
     transition: background-size 1300ms; 
   }
   .title:hover{
     background-size: 100%;
   }
 </style>
-
-<!-- background-size: 0px 2px;  -->
 
 <li>
 <div class="pub-row" style="max-width: 1000px;">
