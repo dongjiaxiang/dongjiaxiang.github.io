@@ -12,7 +12,7 @@
     transition: background-size 1300ms; 
   }
   .title:hover{
-    background-size: 100%;
+    background-size: 100% 2px;
   }
 </style>
 
