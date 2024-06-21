@@ -13,6 +13,17 @@
     <abbr class="badge">arXiv</abbr>
   </div>
 
+  <style>
+    .title span {
+      background-color: #000; /* 设置标题背景色 */
+      background-size: 0px 2px; /* 设置标题背景色 */
+      transition: background-size 1300ms;
+    }
+    .title span:hover{
+      background-size: 100%;
+    }
+  </style>
+
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><strong>Diffusion Tuning: Transferring Diffusion Models via Chain of Forgetting</strong></div>
     <div class="author">Jincheng Zhong*, Xingzhuo Guo*, <strong><u>Jiaxiang Dong</u></strong>, Mingsheng Long#</div>
