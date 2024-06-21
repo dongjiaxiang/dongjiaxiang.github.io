@@ -5,22 +5,17 @@
 <div class="publications">
 <ol class="bibliography">
 
-<!-- <style>
+<style>
   .title span {
     background-color: #000; /* 设置标题背景色 */
+    transition: background-size 1300ms; 
   }
-  background-size: 0px 2px; 
-  transition: background-size 1300ms; */
-  /* .title span:hover{
+  .title span:hover{
     background-size: 100%;
   }
-</style> -->
-
-<style>
-  .title {
-    background-color: #f8f9fa; /* 浅灰色背景 */
-  }
 </style>
+
+<!-- background-size: 0px 2px;  -->
 
 <li>
 <div class="pub-row" style="max-width: 1000px;">
