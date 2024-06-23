@@ -5,7 +5,7 @@
 <div class="publications">
 <ol class="bibliography">
 
-<style>
+<!-- <style>
   .title {
     background-color: #000 no-repeat left bottom; /* 设置标题背景色 */
     background-size: 0px 2px;
@@ -15,7 +15,7 @@
     background-color: #000 no-repeat left bottom; /* Set the background color on hover */
     background-size: 100% 2px; /* Adjust background size to fill the element width */
   }
-</style>
+</style> -->
 
 <li>
 <div class="pub-row" style="max-width: 1000px;">
