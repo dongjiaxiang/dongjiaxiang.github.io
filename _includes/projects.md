@@ -82,7 +82,7 @@
     <!-- <div class="periodical"><em>International Conference on Machine Learning, <a href="https://icml.cc/Conferences/2024">ICML 2024</a>.</em></div> -->
     <div class="links">
       <a href="https://icml.cc/Conferences/2024" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">ICML 2024</a>
-      <a href="https://arxiv.org/abs/2402.02475" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/abs/2402.02475" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://github.com/thuml/TimeSiam" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="/PDF/TimeSiam.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
       <a href="https://icml.cc/media/PosterPDFs/ICML%202024/32734.png?t=1719588397.375251" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
@@ -108,6 +108,7 @@
     <div class="links">
       <a href="https://nips.cc/Conferences/2023" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">NeurIPS 2023</a>
       <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/5f9bfdfe3685e4ccdbc0e7fb29cccf2a-Paper-Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/abs/2302.00861" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://github.com/thuml/SimMTM" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://neurips.cc/media/neurips-2023/Slides/70829_FSDag1N.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
       <a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202023/70829.png?t=1697798641.4338367" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
