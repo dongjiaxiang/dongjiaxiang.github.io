@@ -104,13 +104,14 @@
     <div class="title"><strong>SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling</strong></div>
     <div class="author"><strong><u>Jiaxiang Dong*</u></strong>, Haixu Wu*, Haoran Zhang, Li Zhang, Jianmin Wang, Mingsheng Long#</div>
     <div class="periodical"><a href="https://nips.cc/Conferences/2023">NeurIPS 2023</a> | Neural Information Processing Systems</div>
-    <div><em><strong style="color: darkred;">(Spotlight, Accept rate~ 3.06%)</strong></em></div>
+    <!-- <div><em><strong style="color: darkred;">(Spotlight, Accept rate~ 3.06%)</strong></em></div> -->
     <div class="links">
       <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/5f9bfdfe3685e4ccdbc0e7fb29cccf2a-Paper-Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://arxiv.org/abs/2302.00861" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://github.com/thuml/SimMTM" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://neurips.cc/media/neurips-2023/Slides/70829_FSDag1N.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
       <a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202023/70829.png?t=1697798641.4338367" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
+      <a><em><strong style="color: darkred;">(Spotlight, Accept rate~ 3.06%)</strong></em></a>
     </div>
   </div>
 </div>
