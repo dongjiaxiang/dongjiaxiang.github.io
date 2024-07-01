@@ -46,10 +46,9 @@ blockquote {
 }
 
 @media print,
-screen and (min-width: 2480px) {
+screen and (min-width: 480px) {
   .col-sm-9 {
     width: 100%;
-    max-width: 2480px;
   }
 }
 
