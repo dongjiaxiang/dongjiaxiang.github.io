@@ -101,8 +101,8 @@
     <abbr class="badge">NeurIPS</abbr>
   </div>
 
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title" style="max-width: 2000px;><strong>SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling</strong></div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px; max-width: 1900px;">
+    <div class="title"><strong>SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling</strong></div>
     <div class="author"><strong><u>Jiaxiang Dong*</u></strong>, Haixu Wu*, Haoran Zhang, Li Zhang, Jianmin Wang, Mingsheng Long#</div>
     <div class="periodical"><a href="https://nips.cc/Conferences/2023">NeurIPS 2023</a> | Neural Information Processing Systems | Spotlight</div>
     <!-- <div><em><strong style="color: darkred;">(Spotlight, Accept rate~ 3.06%)</strong></em></div> -->
