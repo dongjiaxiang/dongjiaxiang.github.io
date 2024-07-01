@@ -6,7 +6,7 @@ body {
   padding: 0px;
   font: 16.0px/1.5 Crimson Pro, serif;
   color: #595959;
-  font-weight: 1000;
+  font-weight: 400;
   margin: 0
 }
 
@@ -585,7 +585,7 @@ footer {
 }
 
 @media print,
-screen and (max-width: 2560px) {
+screen and (max-width: 1560px) {
 
   .pub-row {
     display: flex;
@@ -652,7 +652,7 @@ screen and (max-width: 2560px) {
 }
 
 @media print,
-screen and (max-width: 2560px) {
+screen and (max-width: 1560px) {
   body {
     word-wrap: break-word;
     padding: 15px;
@@ -677,7 +677,7 @@ screen and (max-width: 2560px) {
 }
 
 @media print,
-screen and (max-width: 2560px) {
+screen and (max-width: 1560px) {
 
   .pub-row {
     display: block;

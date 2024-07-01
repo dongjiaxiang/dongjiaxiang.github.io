@@ -62,34 +62,35 @@
 </ol>
 </div>
 
+<div style="max-width: 1200px; margin: 0 auto;">
+  <h2 id="publications" style="margin: 2px 0px -15px;">Conference Proceedings</h2>
 
-<h2 id="publications" style="margin: 2px 0px -15px;">Conference Proceedings</h2>
+  <div class="publications">
+  <ol class="bibliography">
 
-<div class="publications">
-<ol class="bibliography">
+  <li>
+  <div class="pub-row">
 
-<li>
-<div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      <img src="assets/img/TimeSiam.png" class="teaser img-fluid z-depth-1">
+      <abbr class="badge">ICML</abbr>
+    </div>
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/TimeSiam.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ICML</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><strong>TimeSiam: A Pre-Training Framework for Siamese Time-Series Modeling</strong></div>
-    <div class="author"><strong><u>Jiaxiang Dong*</u></strong>, Haixu Wu*, Yuxuan Wang, Yunzhong Qiu, Li Zhang, Jianmin Wang, Mingsheng Long#</div>
-    <div class="periodical"><a href="https://icml.cc/Conferences/2024">ICML 2024</a> | International Conference on Machine Learning</div>
-    <div class="links">
-      <!-- <a href="https://icml.cc/Conferences/2024" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">ICML 2024</a> -->
-      <a href="https://arxiv.org/abs/2402.02475" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
-      <a href="https://github.com/thuml/TimeSiam" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="/PDF/TimeSiam.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
-      <a href="https://icml.cc/media/PosterPDFs/ICML%202024/32734.png?t=1719588397.375251" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><strong>TimeSiam: A Pre-Training Framework for Siamese Time-Series Modeling</strong></div>
+      <div class="author"><strong><u>Jiaxiang Dong*</u></strong>, Haixu Wu*, Yuxuan Wang, Yunzhong Qiu, Li Zhang, Jianmin Wang, Mingsheng Long#</div>
+      <div class="periodical"><a href="https://icml.cc/Conferences/2024">ICML 2024</a> | International Conference on Machine Learning</div>
+      <div class="links">
+        <!-- <a href="https://icml.cc/Conferences/2024" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">ICML 2024</a> -->
+        <a href="https://arxiv.org/abs/2402.02475" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+        <a href="https://github.com/thuml/TimeSiam" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+        <a href="/PDF/TimeSiam.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
+        <a href="https://icml.cc/media/PosterPDFs/ICML%202024/32734.png?t=1719588397.375251" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
+      </div>
     </div>
   </div>
+  </li>
 </div>
-</li>
 
 
 <li>
