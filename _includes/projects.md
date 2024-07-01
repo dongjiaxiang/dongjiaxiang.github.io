@@ -18,7 +18,7 @@
 </style> -->
 
 <li>
-<div class="pub-row" style="max-width: 2000px;">
+<div class="pub-row" style="max-width: 1000px;">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/Diff-Tuning.png" class="teaser img-fluid z-depth-1">
