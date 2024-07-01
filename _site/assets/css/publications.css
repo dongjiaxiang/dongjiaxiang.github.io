@@ -9,8 +9,6 @@
   vertical-align: baseline;
   border-radius: 0.25rem;
   transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
-  min-width: 1000px; /* Minimum width */
-  max-width: 2000px; /* Maximum width */
 }
 
 .badge {
@@ -48,9 +46,10 @@ blockquote {
 }
 
 @media print,
-screen and (min-width: 480px) {
+screen and (min-width: 1480px) {
   .col-sm-9 {
     width: 100%;
+    max-width: 1480px;
   }
 }
 
