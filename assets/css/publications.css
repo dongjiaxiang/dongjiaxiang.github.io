@@ -45,10 +45,16 @@ blockquote {
   font-size: 1.2rem;
 }
 
+.wrapper {
+  max-width: 2200px; /* 设置最大宽度为1200px */
+  margin: 0 auto; /* 水平居中显示 */
+  padding: 20px; /* 添加内边距 */
+}
+
 @media print,
 screen and (min-width: 980px) {
   .col-sm-9 {
-    width: 200%;
+    width: 100%;
   }
 }
 
