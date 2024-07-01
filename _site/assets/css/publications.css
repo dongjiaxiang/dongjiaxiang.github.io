@@ -9,6 +9,8 @@
   vertical-align: baseline;
   border-radius: 0.25rem;
   transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+  min-width: 1000px; /* Minimum width */
+  max-width: 2000px; /* Maximum width */
 }
 
 .badge {
