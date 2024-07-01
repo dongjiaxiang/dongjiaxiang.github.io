@@ -129,7 +129,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><strong>Multibox Sample Selection for Active Object Detection</strong></div>
     <div class="author"><strong><u>Jiaxiang Dong</u></strong>, Li Zhang#</div>
-    <div class="periodical"><a href="https://www.2023.ieeeicme.org/">ICME 2023</a> | International Conference on Multimedia and Expo | <strong>Oral</strong></div>
+    <div class="periodical"><a href="https://www.2023.ieeeicme.org/">ICME 2023</a> | International Conference on Multimedia and Expo | <span style="color: darkred; font-weight: bold;">Oral</span></div>
     <!-- <div><em><strong>(Oral)</strong></em></div> -->
     <div class="links">
       <!-- <a href="https://www.2023.ieeeicme.org/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">ICME 2023</a> -->
