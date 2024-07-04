@@ -24,10 +24,10 @@ My research interest is deep time series analysis and pre-training of time serie
 
 ## Selected Awards
 
-- Excellent Thesis Award for Master of Engineering Major in Tianjin (Top 5%), 2019.
-- Oracle Database 10g Administrator Certified Master (OCM), 2015.
-- Oracle Database 10g Administrator Certified Professional (OCP), 2014.
-- Oracle Database SQL Certified Expert, 2014.
+- Excellent Thesis Award for Master of Engineering Major in Tianjin (Top 5%), 2019
+- Oracle Database 10g Administrator Certified Master (OCM), 2015
+- Oracle Database 10g Administrator Certified Professional (OCP), 2014
+- Oracle Database SQL Certified Expert, 2014
 
 
 ## Academic Services
