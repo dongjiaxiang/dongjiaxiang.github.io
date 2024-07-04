@@ -1,3 +1,11 @@
+<!--
+ * @Author: dongjiaxiang 26361444+dongjiaxiang@users.noreply.github.com
+ * @Date: 2024-03-30 21:35:11
+ * @LastEditors: dongjiaxiang 26361444+dongjiaxiang@users.noreply.github.com
+ * @LastEditTime: 2024-07-04 18:30:17
+ * @FilePath: /dongjiaxiang.github.io/index.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 ---
 layout: homepage
 ---
@@ -24,19 +32,18 @@ My research interest is deep time series analysis and pre-training of time serie
 
 ## Selected Awards
 
-Honors and Scholarships
-- Jiukun Scholarship, 2023.
 - Excellent Thesis Award for Master of Engineering Major in Tianjin (Top 5%), 2019.
-
-Professional Certification
 - Oracle Database 10g Administrator Certified Master (OCM), 2015.
 - Oracle Database 10g Administrator Certified Professional (OCP), 2014.
 - Oracle Database SQL Certified Expert, 2014.
 
 
-## Services
+## Academic Services
 
-- Journal & Conference Reviewer: NeurIPS, ICLR, CVPR...
+Reviewer
+- Neural Information Processing Systems (NeurIPS), 2024
+- International Conference on Learning Representations (ICLR), 2024
+- Knowledge Discovery and Data Mining (KDD), 2023
 
 
 <!-- ## Visitor Map
