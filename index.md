@@ -32,7 +32,7 @@ My research interest is deep time series analysis and pre-training of time serie
 
 ## Academic Services
 
-Reviewer
+Conference Reviewer
 - Neural Information Processing Systems (NeurIPS), 2024
 - International Conference on Learning Representations (ICLR), 2024
 - Knowledge Discovery and Data Mining (KDD), 2023
