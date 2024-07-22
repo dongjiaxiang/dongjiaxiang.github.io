@@ -21,6 +21,25 @@
 <div class="pub-row" style="max-width: 1000px;">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/Survey.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><strong>Deep Time Series Models: A Comprehensive Survey and Benchmark</strong></div>
+    <div class="author">Yuxuan Wang*, Haixu Wu*, <strong><u>Jiaxiang Dong*</u></strong>, Yong Liu, Mingsheng Long#, Jianmin Wang</div>
+    <!-- <div class="periodical"><em><a href="https://arxiv.org/abs/2402.19072">arXiv 2024</a></em></div> -->
+    <div class="links">
+      <a href="https://arxiv.org/abs/2407.13278" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row" style="max-width: 1000px;">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/Diff-Tuning.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv</abbr>
   </div>
