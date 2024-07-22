@@ -100,10 +100,10 @@
     <div class="author"><strong><u>Jiaxiang Dong*</u></strong>, Haixu Wu*, Yuxuan Wang, Yunzhong Qiu, Li Zhang, Jianmin Wang, Mingsheng Long#</div>
     <div class="periodical"><a href="https://icml.cc/Conferences/2024">ICML 2024</a> | International Conference on Machine Learning</div>
     <div class="links">
-      <!-- <a href="https://icml.cc/Conferences/2024" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">ICML 2024</a> -->
+      <a href="https://proceedings.mlr.press/v235/dong24e.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://arxiv.org/abs/2402.02475" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://github.com/thuml/TimeSiam" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="/PDF/TimeSiam.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
+      <a href="https://icml.cc/media/icml-2024/Slides/32734.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
       <a href="https://icml.cc/media/PosterPDFs/ICML%202024/32734.png?t=1719588397.375251" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
     </div>
   </div>
