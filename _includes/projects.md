@@ -59,7 +59,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><strong>Diffusion Tuning: Transferring Diffusion Models via Chain of Forgetting</strong></div>
     <div class="author">Jincheng Zhong*, Xingzhuo Guo*, <strong><u>Jiaxiang Dong</u></strong>, Mingsheng Long#</div>
-    <div class="periodical"><a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> | International Conference on Machine Learning</div>
+    <div class="periodical"><a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> | Neural Information Processing Systems</div>
     <!-- <div class="periodical"><em><a href="https://arxiv.org/abs/2402.19072">arXiv 2024</a></em></div> -->
     <div class="links">
       <a href="https://arxiv.org/abs/2406.00773" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
@@ -80,7 +80,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><strong>TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables</strong></div>
     <div class="author">Yuxuan Wang*, Haixu Wu*, <strong><u>Jiaxiang Dong</u></strong>, Yong Liu, Yunzhong Qiu, Haoran Zhang, Jianmin Wang, Mingsheng Long#</div>
-    <div class="periodical"><a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> | International Conference on Machine Learning</div>
+    <div class="periodical"><a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> | Neural Information Processing Systems</div>
 
     <!-- <div class="periodical"><em><a href="https://arxiv.org/abs/2402.19072">arXiv 2024</a></em></div> -->
     <div class="links">
