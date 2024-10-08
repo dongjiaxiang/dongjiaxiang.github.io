@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 
-I'm a Ph.D. candidate (from fall, 2020) in <a href="https://www.thss.tsinghua.edu.cn/" target="_blank"> School of Software</a> at <a href="https://www.tsinghua.edu.cn/en/" target="_blank"> Tsinghua University</a>, working under the supervision of Prof.<a href="https://www.thss.tsinghua.edu.cn/faculty/zhangli.htm" target="_blank"> Li Zhang</a> and Prof.<a href="https://www.thss.tsinghua.edu.cn/faculty/longmingsheng.htm" target="_blank"> Mingsheng Long</a>. 
+I'm a Ph.D. candidate (from fall, 2020) in <a href="https://www.thss.tsinghua.edu.cn/" target="_blank"> School of Software</a> at <a href="https://www.tsinghua.edu.cn/" target="_blank"> Tsinghua University</a>, working under the supervision of Prof.<a href="https://www.thss.tsinghua.edu.cn/faculty/zhangli.htm" target="_blank"> Li Zhang</a> and Prof.<a href="https://www.thss.tsinghua.edu.cn/faculty/longmingsheng.htm" target="_blank"> Mingsheng Long</a>. 
 
 My research interest is deep time series analysis and pre-training of time series through scientifically interpretable deep models. In addition, I am committed to advancing research that can be applied to meaningful real-world scenarios.
 
