@@ -101,6 +101,7 @@
     <div class="author">Yuxuan Wang*, Haixu Wu*, <strong><u>Jiaxiang Dong</u></strong>, Yong Liu, Yunzhong Qiu, Haoran Zhang, Jianmin Wang, Mingsheng Long#</div>
     <div class="periodical"><a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> | Neural Information Processing Systems</div>
     <div class="links">
+      <a href="https://arxiv.org/pdf/2402.19072" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://arxiv.org/abs/2402.19072" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://github.com/thuml/TimeXer" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="/PDF/TimeXer.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
