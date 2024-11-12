@@ -103,7 +103,7 @@
     <div class="links">
       <a href="https://arxiv.org/abs/2402.19072" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://github.com/thuml/TimeXer" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="/PDF/TimeXer.pdf.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
+      <a href="/PDF/TimeXer.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
       <a href="/Poster/TimeXer.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>  
     </div>
   </div>
