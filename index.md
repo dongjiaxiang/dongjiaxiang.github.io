@@ -1,3 +1,4 @@
+
 ---
 layout: homepage
 ---
@@ -32,6 +33,7 @@ I'm a Ph.D. candidate (from fall, 2020) in <a href="https://www.thss.tsinghua.ed
 ## Academic Services
 
 Conference Reviewer
+- International Conference on Machine Learning (ICML), 2025
 - Neural Information Processing Systems (NeurIPS), 2024
 - International Conference on Learning Representations (ICLR), 2023, 2024, 2025
 - Knowledge Discovery and Data Mining (KDD), 2023
