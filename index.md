@@ -4,9 +4,7 @@ layout: homepage
 
 ## About Me
 
-I received my Ph.D. degree from <a href="https://www.thss.tsinghua.edu.cn/" target="_blank"> School of Software</a>, <a href="https://www.tsinghua.edu.cn/" target="_blank"> Tsinghua University</a>, advised by Prof.<a href="https://www.thss.tsinghua.edu.cn/faculty/zhangli.htm" target="_blank"> Li Zhang</a> and Prof.<a href="https://www.thss.tsinghua.edu.cn/faculty/longmingsheng.htm" target="_blank"> Mingsheng Long</a>. 
-
-​My research focuses on deep time series analysis and unsupervised pre-training of time series. In addition, I am committed to advancing research that can be applied to meaningful real-world scenarios.
+I received my Ph.D. degree from <a href="https://www.thss.tsinghua.edu.cn/" target="_blank"> School of Software</a>, <a href="https://www.tsinghua.edu.cn/" target="_blank"> Tsinghua University</a>, advised by Prof.<a href="https://www.thss.tsinghua.edu.cn/faculty/zhangli.htm" target="_blank"> Li Zhang</a> and Prof.<a href="https://www.thss.tsinghua.edu.cn/faculty/longmingsheng.htm" target="_blank"> Mingsheng Long</a>. ​My research focuses on deep time series analysis and unsupervised pre-training of time series. In addition, I am committed to advancing research that can be applied to meaningful real-world scenarios.
 
 {% include_relative_includes/projects.md %}
 
