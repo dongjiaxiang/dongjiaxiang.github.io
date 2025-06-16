@@ -1,10 +1,8 @@
-
 ---
 layout: homepage
 ---
 
 ## About Me
-
 
 I received my Ph.D. degree from <a href="https://www.thss.tsinghua.edu.cn/" target="_blank"> School of Software</a>, <a href="https://www.tsinghua.edu.cn/" target="_blank"> Tsinghua University</a>, advised by Prof.<a href="https://www.thss.tsinghua.edu.cn/faculty/zhangli.htm" target="_blank"> Li Zhang</a> and Prof.<a href="https://www.thss.tsinghua.edu.cn/faculty/longmingsheng.htm" target="_blank"> Mingsheng Long</a>. 
 
