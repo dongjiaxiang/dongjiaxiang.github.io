@@ -1,18 +1,10 @@
-<!--
- * @Author: dongjiaxiang 26361444+dongjiaxiang@users.noreply.github.com
- * @Date: 2024-03-30 21:35:11
- * @LastEditors: dongjiaxiang 26361444+dongjiaxiang@users.noreply.github.com
- * @LastEditTime: 2025-06-17 00:41:28
- * @FilePath: /dongjiaxiang.github.io/index.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
--->
 ---
 layout: homepage
 ---
 
 ## About Me
 
-I received my Ph.D. degree from <a href="https://www.thss.tsinghua.edu.cn/" target="_blank"> School of Software</a>, <a href="https://www.tsinghua.edu.cn/" target="_blank"> Tsinghua University</a>, advised by Prof.<a href="https://www.thss.tsinghua.edu.cn/faculty/zhangli.htm" target="_blank"> Li Zhang</a> and Prof.<a href="https://www.thss.tsinghua.edu.cn/faculty/longmingsheng.htm" target="_blank"> Mingsheng Long</a>. ​My research focuses on deep time series analysis and unsupervised pre-training of time series. 
+I received my Ph.D. degree from <a href="https://www.thss.tsinghua.edu.cn/" target="_blank"> School of Software</a>, <a href="https://www.tsinghua.edu.cn/" target="_blank"> Tsinghua University</a>, advised by Prof.<a href="https://www.thss.tsinghua.edu.cn/faculty/zhangli.htm" target="_blank"> Li Zhang</a> and Prof.<a href="https://www.thss.tsinghua.edu.cn/faculty/longmingsheng.htm" target="_blank"> Mingsheng Long</a>. ​My research focuses on deep time series analysis and unsupervised pre-training of time series 1111. 
 
 In addition, I am committed to advancing research that can be applied to meaningful real-world scenarios.
 
