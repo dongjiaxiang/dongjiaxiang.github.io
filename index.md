@@ -20,6 +20,7 @@ I received my Ph.D. degree from <a href="https://www.thss.tsinghua.edu.cn/" targ
 
 ## Selected Awards
 
+- Comprehensive Excellence Award of Tsinghua, 2023, 2024
 - Excellent Thesis Award for Master of Engineering Major in Tianjin (Top 5%), 2019
 - Oracle Database 10g Administrator Certified Master (OCM), 2015
 - Oracle Database 10g Administrator Certified Professional (OCP), 2014
