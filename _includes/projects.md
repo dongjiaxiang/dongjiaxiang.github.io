@@ -81,7 +81,9 @@
     <div class="periodical"><a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> | Neural Information Processing Systems</div>
     <!-- <div class="periodical"><em><a href="https://arxiv.org/abs/2402.19072">arXiv 2024</a></em></div> -->
     <div class="links">
+      <a href="https://ise.thss.tsinghua.edu.cn/~mlong/doc/Diffusion-Tuning-nips24.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://arxiv.org/abs/2406.00773" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="https://github.com/thuml/Diffusion-Tuning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
