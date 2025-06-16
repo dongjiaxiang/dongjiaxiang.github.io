@@ -8,7 +8,7 @@ I received my Ph.D. degree from <a href="https://www.thss.tsinghua.edu.cn/" targ
 
 advised by Prof.<a href="https://www.thss.tsinghua.edu.cn/faculty/zhangli.htm" target="_blank"> Li Zhang</a> and Prof.<a href="https://www.thss.tsinghua.edu.cn/faculty/longmingsheng.htm" target="_blank"> Mingsheng Long</a>. 
 
-​My research focuses on deep time series analysis and unsupervised pre-training of time series. 
+​My research focuses on deep time series analysis and unsupervised pre-training of time series 222. 
 
 In addition, I am committed to advancing research that can be applied to meaningful real-world scenarios.
 
