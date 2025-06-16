@@ -8,7 +8,7 @@ I received my Ph.D. degree from <a href="https://www.thss.tsinghua.edu.cn/" targ
 
 ​My research focuses on deep time series analysis and unsupervised pre-training of time series. In addition, I am committed to advancing research that can be applied to meaningful real-world scenarios.
 
-{% include_relative _includes/projects.md %}
+{% include_relative_includes/projects.md %}
 
 \* Equal Contribution, # Corresponding Author
 
