@@ -1,3 +1,4 @@
+
 ---
 layout: homepage
 ---
@@ -5,7 +6,7 @@ layout: homepage
 ## About Me
 
 
-I'm a Ph.D. candidate (from fall, 2020) in <a href="https://www.thss.tsinghua.edu.cn/" target="_blank"> School of Software</a> at <a href="https://www.tsinghua.edu.cn/" target="_blank"> Tsinghua University</a>, working under the supervision of Prof.<a href="https://www.thss.tsinghua.edu.cn/faculty/zhangli.htm" target="_blank"> Li Zhang</a> and Prof.<a href="https://www.thss.tsinghua.edu.cn/faculty/longmingsheng.htm" target="_blank"> Mingsheng Long</a>. 
+I received my Ph.D. degree from <a href="https://www.thss.tsinghua.edu.cn/" target="_blank"> School of Software</a>, <a href="https://www.tsinghua.edu.cn/" target="_blank"> Tsinghua University</a>, advised by Prof.<a href="https://www.thss.tsinghua.edu.cn/faculty/zhangli.htm" target="_blank"> Li Zhang</a> and Prof.<a href="https://www.thss.tsinghua.edu.cn/faculty/longmingsheng.htm" target="_blank"> Mingsheng Long</a>. 
 
 ​My research focuses on deep time series analysis and unsupervised pre-training of time series. In addition, I am committed to advancing research that can be applied to meaningful real-world scenarios.
 
@@ -15,7 +16,7 @@ I'm a Ph.D. candidate (from fall, 2020) in <a href="https://www.thss.tsinghua.ed
 
 ## Education and Experience
 
-- **[2020-present]** Ph.D in Software Engineering, <a href="https://www.thss.tsinghua.edu.cn" target="_blank"> School of Software</a>, <a href="https://www.tsinghua.edu.cn/en" target="_blank"> Tsinghua University</a>.
+- **[2020-2025]** Ph.D in Software Engineering, <a href="https://www.thss.tsinghua.edu.cn" target="_blank"> School of Software</a>, <a href="https://www.tsinghua.edu.cn/en" target="_blank"> Tsinghua University</a>.
 - **[2019-2020]** Research Assistant, <a href="https://nercbds.tsinghua.edu.cn/index.html" target="_blank">National Engineering Research Center for Big Data Software</a>.
 - **[2018-2019]** Search Reliability Engineer, <a href="https://en.wikipedia.org/wiki/Baidu" target="_blank">Baidu Online Network Technology (Beijing) Co.,Ltd</a>.
 - **[2016-2018]** M.S Computer science and technology, <a href="https://cc.nankai.edu.cn" target="_blank">College of Computer</a>, <a href="https://www.nankai.edu.cn" target="_blank">NanKai University</a>.
