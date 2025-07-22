@@ -211,7 +211,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><strong>Metadata Matters for Time Series: Informative Forecasting with Transformers</strong></div>
     <div class="author"><strong><u>Jiaxiang Dong*</u></strong>, Haixu Wu*, Yuxuan Wang*, Li Zhang, Jianmin Wang, Mingsheng Long#</div>
-    <div class="periodical"><em><a href="https://www.sciengine.com/">SCIENTIA SINICA Informationis 2025</a> (In Chinese)</div>
+    <div class="periodical"><a href="https://www.sciengine.com/">SCIENTIA SINICA Informationis 2025</a> (In Chinese)</div>
     <div class="links">
       <a href="https://arxiv.org/abs/2410.03806" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
     </div>
