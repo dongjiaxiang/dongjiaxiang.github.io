@@ -17,24 +17,7 @@
   }
 </style> -->
 
-<li>
-<div class="pub-row" style="max-width: 1000px;">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/MetaTST.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><strong>Metadata Matters for Time Series: Informative Forecasting with Transformers</strong></div>
-    <div class="author"><strong><u>Jiaxiang Dong*</u></strong>, Haixu Wu*, Yuxuan Wang*, Li Zhang, Jianmin Wang, Mingsheng Long#</div>
-    <!-- <div class="periodical"><em><a href="https://arxiv.org/abs/2402.19072">arXiv 2024</a></em></div> -->
-    <div class="links">
-      <a href="https://arxiv.org/abs/2410.03806" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
-    </div>
-  </div>
-</div>
-</li>
 
 <li>
 <div class="pub-row" style="max-width: 1000px;">
@@ -66,6 +49,7 @@
 
 <div class="publications">
 <ol class="bibliography">
+
 
 <li>
 <div class="pub-row" style="max-width: 1000px;">
@@ -215,6 +199,25 @@
 
 <div class="publications">
 <ol class="bibliography">
+
+<li>
+<div class="pub-row" style="max-width: 1000px;">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/MetaTST.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><strong>Metadata Matters for Time Series: Informative Forecasting with Transformers</strong></div>
+    <div class="author"><strong><u>Jiaxiang Dong*</u></strong>, Haixu Wu*, Yuxuan Wang*, Li Zhang, Jianmin Wang, Mingsheng Long#</div>
+    <div class="periodical"><em><a href="https://www.sciengine.com/">SCIENTIA SINICA Informationis 2025</a> (In Chinese)</div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2410.03806" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+    </div>
+  </div>
+</div>
+</li>
 
 <li>
 <div class="pub-row">
