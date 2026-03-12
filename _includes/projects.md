@@ -213,6 +213,7 @@
     <div class="author"><strong><u>Jiaxiang Dong*</u></strong>, Haixu Wu*#, Yuxuan Wang*, Li Zhang, Jianmin Wang, Mingsheng Long#</div>
     <div class="periodical"><a href="https://www.sciengine.com/">SCIENTIA SINICA Informationis 2025</a> (In Chinese)</div>
     <div class="links">
+        <a href="https://www.sciengine.com/SSI/doi/10.1360/SSI-2024-0397" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://arxiv.org/abs/2410.03806" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
     </div>
   </div>
@@ -251,10 +252,11 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><strong>Visual Data Analysis with Task-Based Recommendations</strong></div>
     <div class="author">Leixian Shen#, Enya Shen, Zhiwei Tai, Yihao Xu, <strong><u>Jiaxiang Dong</u></strong>, Jianmin Wang</div>
-    <div class="periodical"><a href="https://link.springer.com/journal/41019">DSE 2022</a> | Data Science and Engineering</div>
+    <div class="periodical"><a href="https://link.springer.com/journal/41019">DSE 2022</a> | Data Science and Engineering | <strong style="color: darkred;">Highlighted Paper</strong></div>
     <div class="links">
       <!-- <a href="https://link.springer.com/journal/41019" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DSE 2022</a> -->
       <a href="https://link.springer.com/epdf/10.1007/s41019-022-00195-3?sharing_token=p_hj6bYHTQV5IKBU4kER6fe4RwlQNchNByi7wbcMAY6k3p7zOaeOW7fnvRBct8aGNQbjS4CLa-IpcjrbwoSA608ADxx_2-ENa3oZc_rLc8k8k_sTqHanEn9yYtG33dbjHhzI7_EZw_mgt7M0N0meIaFTkUhaZ2CD2wHpvpdtPPg=" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/abs/2205.03183" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://github.com/ShenLeixian/TaskVis" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
