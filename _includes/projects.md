@@ -33,6 +33,7 @@
     <!-- <div class="periodical"><em><a href="https://arxiv.org/abs/2402.19072">arXiv 2024</a></em></div> -->
     <div class="links">
       <a href="https://arxiv.org/abs/2407.13278" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="https://github.com/thuml/Time-Series-Library" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
